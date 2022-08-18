@@ -1,3 +1,5 @@
-Conceito: testes de software são utilizados para avaliar a qualidade e reduzir o risco de falha em operação permitindo assim possiveis alterações no software que permitam sua melhor
-operação.
+Conceito: testes de software são utilizados para avaliar a qualidade e reduzir o risco de falha em operação permitindo assim possiveis alterações no software que permitam sua melhor operação.
 
+Teste estático de softwares: também conhecido como whitebox, o teste estático busca testar os componentes de uma ferramente sem executar o software. Seu objetivo é identificar falhas de segurança,
+erros de sintaxe e práticas ruins, o que auxilia os gestores de TI a encontrar as linhas de código que foram mal escritas durante a crição do programa. Todos os caminhos de execução, processamento
+e exibição de valores são examinados como consequência, erros mais comuns são descobertos mais rapidamente.
