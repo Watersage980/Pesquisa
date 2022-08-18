@@ -39,3 +39,10 @@ Teste de carga: O teste de carga simula cenários do mundo real em seus sites, a
 medir os limites e obter insights sobre as métricas que podem ajudar a responder perguntas sobre o desempenho e funcionalidade do software.
 
 Teste de volume: O teste de volume é utilizado para testar o desempenho do software sobre diferentes quantidades de dados que podem ou não ocorrer em uma situação real.
+
+Teste de recuperação: O teste de recuperação visa observar a capacidade ou não do software de se recuperar de erros, defeitos e falhas, ele vê como o sistema responde a falha e se a recuperação
+foi feita de forma correta.
+
+Teste de segurança: O Teste de Segurança tem como meta garantir que o funcionamento da aplicação esteja exatamente como especificado. Verifica também se o software se comporta adequadamente mediante
+as mais diversas tentativas ilegais de acesso, visando possíveis vulnerabilidades. Para isso, testa se todos os mecanismos de proteção embutidos na aplicação de fato a protegerão de acessos
+indevidos.
