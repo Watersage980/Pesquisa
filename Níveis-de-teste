@@ -1,0 +1,3 @@
+Teste unitário: o Teste de Componentes ou teste unitário ou de módulos, verifica o funcionamento da unidade mais pequena do código de uma aplicação, independentemente da sua interação com 
+outras partes do código. Geralmente, este nível de teste é realizado isoladamente do resto do sistema. Podem utilizar-se objetos simulados, virtualização de serviços, simuladores ou controladores.
+ O teste unitário pode abranger funcionalidades, características não funcionais e propriedades estruturais. Os testes unitários são simples e rápidos, mas não são suficientes.
