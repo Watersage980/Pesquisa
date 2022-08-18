@@ -18,3 +18,14 @@ exatamente os passos seguidos para o teste das primeiras versões já que elas p
 Teste de desempenho: O teste de desempenho é uma classe de testes implementada e executada para caracterizar e avaliar as características relacionadas ao desempenho do destino do teste, como
 perfis de sincronização, fluxo de execução, tempos de resposta e confiabilidade e limites operacionais.
 
+Teste de aceitação: o teste de aceitação, tal como o teste de sistema, centra-se no comportamento e capacidade de todo um sistema ou produto. Pode produzir informações para avaliar a situação do 
+sistema, no sentido da sua implementação e utilização pelo cliente final (utilizador). O teste de aceitação pode também satisfazer requisitos, obrigações normativas ou regulamentos.
+
+Smoketest: Smoke testing ou teste de fumaça são testes básicos que verificam as funcionalidade básicas da aplicação, é um processo que deve ser executado de forma rápida para determinar se o
+build ou a compilação da aplicação realizada está estável ou não. É uma confirmação para a equipe decidir se avança ou não para novos testes. Consiste em um conjunto mínimo de testes para validar
+as principais funcionalidades.
+
+Teste exploratório: O teste exploratório consiste em design de teste e execução do teste ao mesmo tempo. Isso é o oposto de teste com script (procedimentos de teste predefinidos, manuais ou
+automatizados). Diferentes dos testes com script, os testes exploratórios não são definidos previamente e executados com exatidão conforme o plano.
+
+Teste de confirmação:
