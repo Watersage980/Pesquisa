@@ -8,8 +8,22 @@ requisitos ou obrigações normativas e regulamentares. É comum implementar-se 
 mais próximos do que o utilizador final vai encontrar ao usar a aplicação. Tipicamente, este nível de teste é realizado no ambiente que antecede a produção. O teste de sistema deve focar-se no 
 comportamento geral, funcional e não funcional, de ponta a ponta do sistema, como um todo.
 
-Teste de integração: Os testes de integração são mais complexos de desenvolver, manter e mais lentos que os testes de componentes, dado que testam funcionalidades inteiras, muitas vezes,
+Teste de integração: os testes de integração são mais complexos de desenvolver, manter e mais lentos que os testes de componentes, dado que testam funcionalidades inteiras, muitas vezes,
 com persistência de dados. Realizar testes de integração não é testar a lógica dos componentes, mas testar como os diferentes componentes interagem entre si. Esta mesma lógica de teste de integração
 aplica-se a quaisquer elementos que possam ser integrados. Por exemplo, quando temos dois sistemas integrados também devemos endereçar a interação entre estes sistemas recorrendo a testes de
 integração de sistemas.
 
+Teste de aceitação: o teste de aceitação, tal como o teste de sistema, centra-se no comportamento e capacidade de todo um sistema ou produto. Pode produzir informações para avaliar a situação do 
+sistema, no sentido da sua implementação e utilização pelo cliente final (utilizador). O teste de aceitação pode também satisfazer requisitos, obrigações normativas ou regulamentos. As formas mais 
+comuns de testes de aceitação incluem o seguinte:
+Teste de aceitação de utilizador (UAT): consiste em colocar o sistema num ambiente controlado, para que o utilizador da aplicação faça um “TestDrive”. É aqui que podemos recolher informações sobre
+se o sistema corresponde aos requisitos e se o utilizador consegue executar os processos de negócio com o mínimo de dificuldade, custo e risco.
+Teste de aceitação operacional (OAT): esta forma de teste de aceitação é focada na equipa de administração de sistemas. Realizado igualmente num ambiente controlado, pode incluir testes como backup, 
+instalação, recuperação de desastres, gestão de utilizadores, tarefas de manutenção, vulnerabilidade, segurança e teste de performance. 
+Teste de aceitação contratual e de regulamentação (Contractual and Regulatory Acceptance Testing): o teste de aceitação contratual é realizado com base nos critérios de aceitação de um contrato
+para desenvolver softwares específicos.
+Teste Alfa e Beta: o Teste Alfa é uma forma de teste de aceitação, no entanto, é realizado de uma forma não planeada, disponibilizando o sistema dentro da infraestrutura da empresa que desenvolveu o
+produto e para um pequeno grupo de pessoas. Essas pessoas são geralmente membros da organização e também do cliente mas não da equipa de desenvolvimento. O objetivo é que essas pessoas forneçam 
+inputs sobre a situação atual do sistema. O Teste Beta é realizado também de forma não planeada, e pode ser executado por um grande número de pessoas desconhecidas. O sistema é executado na
+infraestrutura dessas pessoas, que tipicamente não fazem parte da equipa ou da empresa que efetuou o seu desenvolvimento. É utilizado como uma forma de aceitação externa, possibilitando avaliar o
+feedback do mercado.
