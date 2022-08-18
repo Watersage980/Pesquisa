@@ -35,3 +35,7 @@ Teste de estresse: Teste de stress é realizado para submeter o software a situa
 Assim, avalia-se até quando o software pode ser exigido e quais as falhas (se existirem) decorrentes do teste. Os testes de stress são fundamentais em aplicações em que a eficiência seja
 uma característica importante.
 
+Teste de carga: O teste de carga simula cenários do mundo real em seus sites, aplicativos e sistemas. Através das informações coletadas durante e após os testes de carga, os desenvolvedores podem
+medir os limites e obter insights sobre as métricas que podem ajudar a responder perguntas sobre o desempenho e funcionalidade do software.
+
+Teste de volume: O teste de volume é utilizado para testar o desempenho do software sobre diferentes quantidades de dados que podem ou não ocorrer em uma situação real.
