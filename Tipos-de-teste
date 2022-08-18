@@ -28,4 +28,10 @@ as principais funcionalidades.
 Teste exploratório: O teste exploratório consiste em design de teste e execução do teste ao mesmo tempo. Isso é o oposto de teste com script (procedimentos de teste predefinidos, manuais ou
 automatizados). Diferentes dos testes com script, os testes exploratórios não são definidos previamente e executados com exatidão conforme o plano.
 
-Teste de confirmação:
+Teste de confirmação: Quando são feitas alterações em um sistema, seja para corrigir um defeito ou por causa de uma funcionalidade nova ou variável, deve-se testar para confirmar se as alterações
+corrigiram o defeito ou implementaram a funcionalidade corretamente e, principalmente, não causaram consequências adversas imprevistas. 
+
+Teste de estresse: Teste de stress é realizado para submeter o software a situações extremas. Basicamente, o teste de stress baseia-se em testar os limites do software e avaliar seu comportamento.
+Assim, avalia-se até quando o software pode ser exigido e quais as falhas (se existirem) decorrentes do teste. Os testes de stress são fundamentais em aplicações em que a eficiência seja
+uma característica importante.
+
