@@ -3,3 +3,18 @@ requisitos de negócio, user stories, casos de uso ou especificações funcionai
 profissionais especializados numa determinada área ou competência, como o conhecimento específico de um problema de negócio que o software resolve, ou o papel específico que o software desempenha
 ou deverá desempenhar.
 
+Teste manual: Tal como o nome indica, o Teste Manual é a forma de uma aplicação ser testada por um ser humano, manualmente. Um especialista em garantia de qualidade (tester) que executa testes
+manuais garante que a aplicação está a funcionar corretamente, seguindo as condições descritas nos casos de teste.O tester avalia o design, a funcionalidade e o desempenho da aplicação, verificando
+ainda outros elementos. Os testes manuais são mais recomendados quando se utilizam testes exploratórios, testes de usabilidade e testes de aceitação.
+
+Teste automático: Os Testes Automáticos implicam o desenvolvimento de testes programados para serem executados automaticamente, comparando os resultados reais com os resultados esperados.
+Os Testes Automáticos são executados com o auxílio de ferramentas, scripts e software, sendo principalmente recomendados para realizar testes de regressão, testes de carga e testes de desempenho.
+
+Teste de regressão: O teste de regressão é uma técnica do teste de software que consiste na aplicação de versões mais recente do software, para garantir que não surgiram novos defeitos em
+componentes já analisados. Se, ao juntar o novo componente ou as suas alterações com os componentes restantes do sistema surgirem novos defeitos em componentes inalterados, então considera-se que o
+sistema regrediu. Muitas vezes são usadas ferramentas específicas para o teste de regressão, chamadas de ferramentas de automação. Elas conseguem um resultado mais exato do teste executando
+exatamente os passos seguidos para o teste das primeiras versões já que elas permitem a gravação do teste. 
+
+Teste de desempenho: O teste de desempenho é uma classe de testes implementada e executada para caracterizar e avaliar as características relacionadas ao desempenho do destino do teste, como
+perfis de sincronização, fluxo de execução, tempos de resposta e confiabilidade e limites operacionais.
+
