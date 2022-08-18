@@ -2,6 +2,11 @@ Conceito: testes de software são utilizados para avaliar a qualidade e reduzir 
 
 Caso: conjunto de ações executadas para verificar se uma determinada funcionalidade ou recurso de um software está dentro dos parâmetros.
 
+Defeito: é a manifetação de um erro que gera uma imperfeição ou deficiência em um produto de trabalho em que o produto de trabalho não atende a seus requisitos ou especificações e precisa ser
+consertado ou substituído.
+
+Falha: ocorre quando um defeito impede o software de cumprir seu objetivo dentro dos parâmetros estipulados pela empresa ou pelo cliente.
+
 Teste estático de softwares: também conhecido como whitebox, o teste estático busca testar os componentes de uma ferramenta sem executar o software. Seu objetivo é identificar falhas de segurança,
 erros de sintaxe e práticas ruins, o que auxilia os gestores de TI a encontrar as linhas de código que foram mal escritas durante a crição do programa. Todos os caminhos de execução, processamento
 e exibição de valores são examinados como consequência, erros mais comuns são descobertos mais rapidamente.
@@ -9,3 +14,7 @@ e exibição de valores são examinados como consequência, erros mais comuns s�
 Teste dinâmico de software: este teste vê o software como um tipo de "caixa preta", ele trabalha de forma complementar ao teste estático atuando ao checar as informações inseridas nas rotinas de 
 entrada e saída de dados além de verificar o tempo de resposta, a performance da aplicação, a capacidade de adaptação do software e seu comportamento funcional, permitindo que erros mais sutis
 sejam descobertos.
+
+Critérios de aceitação: Os critérios de aceitação funcional dizem como o software precisa se comportar para ajudar seus usuários a fazer seu trabalho. Eles são sobre as funções, ou recursos,
+que seu software oferece. Os critérios de aceitação não-funcionais especificam os requisitos para tudo mais. Eles são sobre como seu software faz o que faz: aspectos como acessibilidade,
+facilidade de uso, segurança e privacidade, velocidade, confiabilidade e muito, muito mais.
