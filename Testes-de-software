@@ -18,3 +18,7 @@ sejam descobertos.
 Critérios de aceitação: Os critérios de aceitação funcional dizem como o software precisa se comportar para ajudar seus usuários a fazer seu trabalho. Eles são sobre as funções, ou recursos,
 que seu software oferece. Os critérios de aceitação não-funcionais especificam os requisitos para tudo mais. Eles são sobre como seu software faz o que faz: aspectos como acessibilidade,
 facilidade de uso, segurança e privacidade, velocidade, confiabilidade e muito, muito mais.
+
+Artefatos de testes:Os critérios de aceitação funcional dizem como o software precisa se comportar para ajudar os usuários a fazer seus trabalhos.Eles são sobre uma função,ou recurso,que seu
+software oferece.Os critérios não funcionais especificam os requisitos para tudo mais,o artefato é a especificação de um conjunto de entradas de teste, condições de execução e resultados esperados,
+identificados com a finalidade de fazer a avaliação de algum aspecto particular de um cenário.
