@@ -1,9 +1,11 @@
 Conceito: testes de software são utilizados para avaliar a qualidade e reduzir o risco de falha em operação permitindo assim possiveis alterações no software que permitam sua melhor operação.
 
+Caso: conjunto de ações executadas para verificar se uma determinada funcionalidade ou recurso de um software está dentro dos parâmetros.
+
 Teste estático de softwares: também conhecido como whitebox, o teste estático busca testar os componentes de uma ferramenta sem executar o software. Seu objetivo é identificar falhas de segurança,
 erros de sintaxe e práticas ruins, o que auxilia os gestores de TI a encontrar as linhas de código que foram mal escritas durante a crição do programa. Todos os caminhos de execução, processamento
 e exibição de valores são examinados como consequência, erros mais comuns são descobertos mais rapidamente.
 
 Teste dinâmico de software: este teste vê o software como um tipo de "caixa preta", ele trabalha de forma complementar ao teste estático atuando ao checar as informações inseridas nas rotinas de 
 entrada e saída de dados além de verificar o tempo de resposta, a performance da aplicação, a capacidade de adaptação do software e seu comportamento funcional, permitindo que erros mais sutis
-sejam descobertos
+sejam descobertos.
