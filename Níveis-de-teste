@@ -8,3 +8,8 @@ requisitos ou obrigações normativas e regulamentares. É comum implementar-se 
 mais próximos do que o utilizador final vai encontrar ao usar a aplicação. Tipicamente, este nível de teste é realizado no ambiente que antecede a produção. O teste de sistema deve focar-se no 
 comportamento geral, funcional e não funcional, de ponta a ponta do sistema, como um todo.
 
+Teste de integração: Os testes de integração são mais complexos de desenvolver, manter e mais lentos que os testes de componentes, dado que testam funcionalidades inteiras, muitas vezes,
+com persistência de dados. Realizar testes de integração não é testar a lógica dos componentes, mas testar como os diferentes componentes interagem entre si. Esta mesma lógica de teste de integração
+aplica-se a quaisquer elementos que possam ser integrados. Por exemplo, quando temos dois sistemas integrados também devemos endereçar a interação entre estes sistemas recorrendo a testes de
+integração de sistemas.
+
