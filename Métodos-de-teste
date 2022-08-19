@@ -1,2 +1,10 @@
 Pairwise: É um tipo de teste que observa que os erros são causados no máximo por dois fatore interagindo, se utilizando de todas as combinações possíveis de interações entre esses dois fatores
 para encontrar a melhor solução.
+
+Gráfico de causa e efeito: Também conhecido como diagrama de Ishikawa, o objetivo deste teste é identificar possiveis causas de um problema utilizando os 6 M's da manufatura: máquinas, métodos,
+materiais, mão-de-obra, meio ambiente e medição.
+
+Classe de equivalência e valores limites: É uma técnica de software utilizada para testar os limites do domínio de entrada e de saída. Os valores de entrada e saída são colocados em grupos com
+fronteiras conhecidas, então são realizados testes colocando valores dos limites do alcance do componente.
+
+Step-by-step: aplicar de acordo com o contexto, nível do teste, ferramentas para cada tipo de teste.
