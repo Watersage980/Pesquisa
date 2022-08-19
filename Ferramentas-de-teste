@@ -1,0 +1,10 @@
+Mantis: O Mantis Bug Tracker é um popular sistema de gerenciamento de defeitos de fácil customização, instalação e entendimento. Ele é uma ferramenta gratuita escrita em PHP que é acessada através
+de um browser e disponibilizada com a licença GNU General Public License (GPL). Possui suporte a diversos bancos de dados, entre eles: MySQL, SQL Server, PostgreSQL e DB2.
+
+Testlink: Permite o cadastro de projetos de teste, assim come seus planos e casos de teste, e após a definição do escopo do projeto de teste é possivel controlar e armazenar os casos de teste
+a serem verificados
+
+JUnit: Permite verificar se cada parte do código funciona de forma esperada, facilita a criação e execução automática de testes e a apresentação de resultados.
+
+Selenium: Selenium é um framework portátil para testar aplicativos web. O Selenium fornece uma ferramenta de reprodução para a criação de testes funcionais sem a necessidade de aprender uma
+linguagem de script de teste.
