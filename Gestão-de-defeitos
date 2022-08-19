@@ -1,0 +1,11 @@
+Causas: Uma das causas principais de falhas de software é o erro humano na programação das aplicações. Isso ocorre muitas vezes durante o processo de codificação, mas pode surgir também em outras
+etapas do ciclo de vida de desenvolvimento.
+
+Ciclo de vida: O processo começa pelo testador que executa: teste ou reteste -> encontra o defeito -> reporta o defeito. O analista de testes então: reconhece o defeito -> prioriza a correção ->
+agenda a correção. E finalmente o desenvolvedor: corrige o defeito -> executa a correção. Depois o ciclo pode se repitir ou ir para o analista de testes que gera e analisa um relatório de gestão.
+
+Consequencia: É qualquer imperfeição ou inconsistência no produto do software ou em seu processo, um defeito é também uma não conformidade. O Defeito faz parte do produto, é algo que esta
+implementada no código de maneira errada.
+
+Regra 10 de Myers:A regra 10 de Myers apresenta que o custo da correção de um defeito tende a aumentar quanto mais tarde ele for encontrado. Os defeitos encontrados nas fases iniciais do
+projeto de desenvolvimento do software são mais baratos do que aqueles encontrados na produção.
