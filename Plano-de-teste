@@ -1,0 +1,11 @@
+Elaboração:  Esta seção descreve em linhas gerais o conjunto de requisitos a serem testados no projeto a ser desenvolvido, comunicando o que deve
+ser verificado. 1-Requisitos a serem testados. 2-Estratégias e ferramentas de teste. 3-Equipe e infra-estrutura. 4-Cronograma de atividades. 5-Documentação complementar.
+
+Especificação: Contém uma identificação do projeto, descrição dos objetivos do documento, o público ao qual ele se destina e escopo do projeto a ser desenvolvido. Pode adicionalmente conter termos
+e abreviações usadas, além de informar como o plano deve evoluir. 
+
+Tipos de teste a serem executados: 1-Teste de usabilidade. 2-Testes funcionais. 3-Teste de integração. 4-Testes de performance,Testes de carga e estresse,Teste de estabilidade.
+5-Teste de regressão. 6-Teste de segurança
+
+Registros de teste: Nesta seção são catalogados quais tipos de teste foram realizados, quantos e quais foram os erros encontrados, as soluções que foram encontadas para erro e o resultado de cada
+teste
